@@ -18,7 +18,7 @@ int get_GCD(int x, int y){
             break;
         }
     }
-    return 0;
+    return a;
 }
 
 int get_LCM(int x, int y){
@@ -33,6 +33,7 @@ int get_LCM(int x, int y){
             break;
         }
     }
+    return least;
 }
 
 

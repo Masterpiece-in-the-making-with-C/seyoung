@@ -1,41 +1,6 @@
 #include <stdio.h>
 
-int main()
-{
-    // int i, k;
-    // double num, sum, average;
-    // double arr[5]={};
-   
-    // for(i=0;i<5;i++){
-    //     scanf("%lf ", &num);
-    //     arr[i] = num;
-    // }
-   
-    // for(k=0;k<5;k++){
-    //     sum += arr[k];
-    // }
-   
-    // average = sum/5;
-   
-    // printf("합 = %lf, 평균 = %lf", sum, average);
-   
-    // int i;
-    // double num, max;
-    // double arr[5]={};
-   
-    // for(i=0;i<5;i++){
-    //     scanf("%lf", &num);
-    //     arr[i] = num;
-    // }
-   
-    // max=arr[0];
-    // for(i=0;i<5;i++){
-    //     if(max<arr[i])
-    //         max = arr[i];
-    // }
-   
-    // printf("max = %lf", max);
-   
+int main(){
     int M, N;
 
     scanf("%d %d", &M, &N);
